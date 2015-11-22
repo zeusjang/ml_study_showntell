@@ -2,7 +2,9 @@ import pandas as pd
 import numpy as np
 import os
 import cPickle
-from cnn_util import *   # test
+from cnn_util import *  # sdjflksdjflksj
+
+#sdfkjlsdf
 
 vgg_model = '/home/taeksoo/Package/caffe/models/vgg/VGG_ILSVRC_19_layers.caffemodel'
 vgg_deploy = '/home/taeksoo/Package/caffe/models/vgg/VGG_ILSVRC_19_layers_deploy.prototxt'
