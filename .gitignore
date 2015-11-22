@@ -1,0 +1,5 @@
+data/
+flickr30k/
+vgg_model/
+.DS_Store
+.brackets.json
